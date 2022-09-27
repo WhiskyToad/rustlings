@@ -12,8 +12,8 @@
 | enums                  | §6, §18.3           |Done
 | strings                | §8.2                |Done
 | modules                | §7                  |Done
-| hashmaps               | §8.3                |
-| options                | §10.1               |
+| hashmaps               | §8.3                |Done
+| options                | §10.1               |Done
 | error_handling         | §9                  |
 | generics               | §10                 |
 | traits                 | §10.2               |
