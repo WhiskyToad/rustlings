@@ -10,7 +10,7 @@
 | move_semantics         | §4.1, §4.2          |Done
 | structs                | §5.1, §5.3          |Done
 | enums                  | §6, §18.3           |Done
-| strings                | §8.2                |
+| strings                | §8.2                |Done
 | modules                | §7                  |
 | hashmaps               | §8.3                |
 | options                | §10.1               |
