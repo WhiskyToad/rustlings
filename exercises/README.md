@@ -14,7 +14,7 @@
 | modules                | §7                  |Done
 | hashmaps               | §8.3                |Done
 | options                | §10.1               |Done
-| error_handling         | §9                  |
+| error_handling         | §9                  |Done
 | generics               | §10                 |
 | traits                 | §10.2               |
 | tests                  | §11.1               |
