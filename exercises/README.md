@@ -15,8 +15,8 @@
 | hashmaps               | §8.3                |Done
 | options                | §10.1               |Done
 | error_handling         | §9                  |Done
-| generics               | §10                 |
-| traits                 | §10.2               |
+| generics               | §10                 |Done
+| traits                 | §10.2               |Done
 | tests                  | §11.1               |
 | lifetimes              | §10.3               |
 | standard_library_types | §13.2, §15.1, §16.3 |
