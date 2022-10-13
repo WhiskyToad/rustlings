@@ -17,7 +17,7 @@
 | error_handling         | §9                  |Done
 | generics               | §10                 |Done
 | traits                 | §10.2               |Done
-| tests                  | §11.1               |
+| tests                  | §11.1               |Done
 | lifetimes              | §10.3               |
 | standard_library_types | §13.2, §15.1, §16.3 |
 | threads                | §16.1, §16.2, §16.3 |
